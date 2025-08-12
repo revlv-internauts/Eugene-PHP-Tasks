@@ -20,4 +20,5 @@
 
     <h3>5. Light Travel Time</h3>
     <?= "Time in Seconds is: " . lightTravelTime(); ?>
+</body>
 </html>
